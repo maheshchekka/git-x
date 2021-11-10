@@ -23,6 +23,8 @@ public class HomePage extends base {
 		lp.getpassword().sendKeys("mahesh");
 		lp.getsignin().click();
 		Thread.sleep(2000);
+		System.out.println("welcome");
+		System.out.println("hello");
 	
 		
 		
