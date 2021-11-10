@@ -25,7 +25,7 @@ public class HomePage extends base {
 		Thread.sleep(2000);
 		System.out.println("welcome");
 		System.out.println("hello");
-	
+		System.out.println("wewewe");
 		
 		
 		
