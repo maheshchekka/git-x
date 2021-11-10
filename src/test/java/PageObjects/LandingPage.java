@@ -17,6 +17,10 @@ public class LandingPage {
 	
 	public WebElement getlogin() {
 		return driver.findElement(login);
+		System.out.println("wewewe");
+		System.out.println("welcome");
+		System.out.println("hello");
+		System.out.println("wewewe");
 	}
 
 }
